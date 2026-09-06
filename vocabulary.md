@@ -2,6 +2,8 @@
 
 필요한 범주만 열어 볼 수 있도록 어휘를 작은 문서로 나눴습니다. 표의 성별 표기는 남성(M), 여성(F), 중성(N), 복수(Pl.)이며 동사와 부사는 품사를 적었습니다.
 
+숙련도는 `미평가 → 학습 중 → 익숙함 → 숙달`로 기록합니다. 새 단어의 기본값은 `미평가`입니다.
+
 - [사람과 가족](vocabulary/01-people-and-family.md)
 - [나라, 언어와 국적](vocabulary/02-countries-languages-nationalities.md)
 - [집과 공간](vocabulary/03-home-and-space.md)
