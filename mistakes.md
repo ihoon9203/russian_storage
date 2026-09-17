@@ -2,8 +2,8 @@
 
 오답노트를 문법과 어휘로 나누고, 각 범주 안에서 다시 주제별 문서로 관리합니다.
 
-- [문법 오답노트](mistakes/grammar.md)
-- [어휘 오답노트](mistakes/vocabulary.md)
+- [문법 오답노트 / Grammar Mistakes](mistakes/grammar.md)
+- [어휘 오답노트 / Vocabulary Mistakes](mistakes/vocabulary.md)
 
 ## 기록 원칙
 
