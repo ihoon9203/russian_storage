@@ -21,6 +21,6 @@
 |---|---|---|
 | 1 | [일과와 시간](../vocabulary/23-daily-routine-and-time.md), [달리기와 야외](../vocabulary/22-running-and-outdoors.md) | [`к + 여격`](../grammar/05-dative.md), [전치격 위치](../grammar/08-prepositional-and-location.md) |
 | 2 | [옷과 소지품](../vocabulary/24-clothing-and-belongings.md) | [대격 목적어](../grammar/06-accusative.md), [현재형 동사](../grammar/09-present-tense.md) |
-| 3 | [동사](../vocabulary/07-verbs.md), [장소와 이동](../vocabulary/11-places-and-travel.md) | [`из + 생격`](../grammar/04-genitive.md), [`в + 대격`](../grammar/08-prepositional-and-location.md) |
+| 3 | [집](../vocabulary/home.md), [교통·이동](../vocabulary/transport-and-movement.md), [도시·장소](../vocabulary/city-and-places.md) | [`из + 생격`](../grammar/04-genitive.md), [`в + 대격`](../grammar/08-prepositional-and-location.md) |
 | 4 | [달리기와 야외](../vocabulary/22-running-and-outdoors.md) | [`на + 대격`](../grammar/06-accusative.md), [형용사 일치](../grammar/02-gender-and-agreement.md), [`воздухом` 조격](../grammar/07-instrumental.md) |
 | 5 | [일과와 시간](../vocabulary/23-daily-routine-and-time.md) | [`после + 생격`](../grammar/04-genitive.md), [재귀동사 현재형](../grammar/09-present-tense.md) |
