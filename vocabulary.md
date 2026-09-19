@@ -27,7 +27,6 @@
 - [도시·장소](vocabulary/city-and-places.md)
 - [여행](vocabulary/travel.md)
 - [교통·이동](vocabulary/transport-and-movement.md)
-- [호텔](vocabulary/hotel.md)
 - [위치·방향](vocabulary/location-and-direction.md)
 
 ## 회화와 기능 표현
@@ -47,7 +46,6 @@
 
 - [나라·언어·국적](vocabulary/countries-languages-nationalities.md)
 - [기술·미디어](vocabulary/technology-and-media.md)
-- [사회](vocabulary/society.md)
 - [예술·문화](vocabulary/arts-and-culture.md)
 
 ## 학습 메모
