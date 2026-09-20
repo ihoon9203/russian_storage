@@ -14,6 +14,8 @@
 - [직업·직장](vocabulary/work-and-professions.md)
 - [학교·공부](vocabulary/school-and-study.md)
 - [개인정보](vocabulary/personal-information.md)
+- [일과와 시간](vocabulary/23-daily-routine-and-time.md)
+- [옷과 소지품](vocabulary/24-clothing-and-belongings.md)
 
 ## 음식과 소비
 
@@ -28,6 +30,8 @@
 - [여행](vocabulary/travel.md)
 - [교통·이동](vocabulary/transport-and-movement.md)
 - [위치·방향](vocabulary/location-and-direction.md)
+- [위치 표현](vocabulary/21-position-expressions.md)
+- [달리기와 야외](vocabulary/22-running-and-outdoors.md)
 
 ## 회화와 기능 표현
 
