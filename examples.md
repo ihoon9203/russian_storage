@@ -4,7 +4,6 @@
 
 - [조깅 연습 / Jogging Practice](examples/01-jogging-practice.md)
 - [일상 속 격 활용 / Cases in Daily Life](examples/02-cases-in-daily-life.md)
-- [퇴근 후 러닝 / After Work and Running](examples/03-after-work-and-running.md)
 
 ## 기록 원칙
 

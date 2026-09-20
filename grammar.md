@@ -28,4 +28,3 @@
 - [24. 명령형과 제안 / Imperatives and Proposals](grammar/24-imperatives-and-proposals.md)
 - [25. 접두사와 동사상 / Prefixes and Aspect](grammar/25-prefixes-and-aspect.md)
 - [26. 명사 복수 격 어미표 / Plural Case Endings](grammar/26-plural-case-endings.md)
-- [27. `который` 관계절 / Relative Clauses](grammar/27-relative-clauses.md)
