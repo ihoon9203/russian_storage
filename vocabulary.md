@@ -28,6 +28,7 @@
 - [여행](vocabulary/travel.md)
 - [교통·이동](vocabulary/transport-and-movement.md)
 - [위치·방향](vocabulary/location-and-direction.md)
+- [달리기와 야외](vocabulary/22-running-and-outdoors.md)
 
 ## 회화와 기능 표현
 
