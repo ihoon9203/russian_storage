@@ -4,6 +4,9 @@
 
 - [조깅 연습 / Jogging Practice](examples/01-jogging-practice.md)
 - [일상 속 격 활용 / Cases in Daily Life](examples/02-cases-in-daily-life.md)
+- [공원 숙제 문단 / Park Homework](examples/03-park-homework.md)
+- [계절 여행 대화 / Seasonal Travel Dialogue](examples/04-seasonal-travel-dialogue.md)
+- [방과 후 약속 대화 / After-Class Invitation](examples/05-after-class-invitation.md)
 
 ## 기록 원칙
 
