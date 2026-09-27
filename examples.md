@@ -7,6 +7,7 @@
 - [공원 숙제 문단 / Park Homework](examples/03-park-homework.md)
 - [계절 여행 대화 / Seasonal Travel Dialogue](examples/04-seasonal-travel-dialogue.md)
 - [방과 후 약속 대화 / After-Class Invitation](examples/05-after-class-invitation.md)
+- [친구와 저녁 식사 / Dinner with a Friend](examples/06-dinner-with-friend.md)
 
 ## 기록 원칙
 
