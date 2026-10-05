@@ -12,6 +12,7 @@
 - [여격 전치사 연습 / Dative Prepositions](examples/08-dative-preposition-practice.md)
 - [대격 방향 연습 / Accusative Direction](examples/09-accusative-direction-practice.md)
 - [식당과 기내 요청 / Restaurant and Flight Requests](examples/10-restaurant-and-flight-requests.md)
+- [식당에서 격 연결하기 / Restaurant Case Combinations](examples/11-restaurant-case-combinations.md)
 
 ## 기록 원칙
 

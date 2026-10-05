@@ -22,6 +22,8 @@
 - [음식](vocabulary/food.md)
 - [음료](vocabulary/drinks.md)
 - [식당·주문](vocabulary/restaurant-and-ordering.md)
+- [식당 사람·행동](vocabulary/restaurant-people-and-actions.md)
+- [주방·식기](vocabulary/kitchen-and-tableware.md)
 - [쇼핑](vocabulary/shopping.md)
 
 ## 장소와 이동
