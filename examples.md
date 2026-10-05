@@ -8,6 +8,10 @@
 - [계절 여행 대화 / Seasonal Travel Dialogue](examples/04-seasonal-travel-dialogue.md)
 - [방과 후 약속 대화 / After-Class Invitation](examples/05-after-class-invitation.md)
 - [친구와 저녁 식사 / Dinner with a Friend](examples/06-dinner-with-friend.md)
+- [생격 전치사 연습 / Genitive Prepositions](examples/07-genitive-preposition-practice.md)
+- [여격 전치사 연습 / Dative Prepositions](examples/08-dative-preposition-practice.md)
+- [대격 방향 연습 / Accusative Direction](examples/09-accusative-direction-practice.md)
+- [식당과 기내 요청 / Restaurant and Flight Requests](examples/10-restaurant-and-flight-requests.md)
 
 ## 기록 원칙
 

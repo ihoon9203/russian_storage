@@ -5,3 +5,4 @@
 문법 오답을 기존 문법 정리처럼 주제별로 나눠 관리합니다.
 
 - [1. 격과 위치 표현](grammar/01-cases-and-location.md)
+- [2. 격변화 테스트 기록](grammar/02-case-drill-progress.md)

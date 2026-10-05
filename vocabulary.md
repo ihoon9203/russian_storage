@@ -14,6 +14,8 @@
 - [직업·직장](vocabulary/work-and-professions.md)
 - [학교·공부](vocabulary/school-and-study.md)
 - [개인정보](vocabulary/personal-information.md)
+- [동물](vocabulary/animals.md)
+- [러시아식 이름](vocabulary/names.md)
 
 ## 음식과 소비
 
