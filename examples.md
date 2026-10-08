@@ -13,6 +13,9 @@
 - [대격 방향 연습 / Accusative Direction](examples/09-accusative-direction-practice.md)
 - [식당과 기내 요청 / Restaurant and Flight Requests](examples/10-restaurant-and-flight-requests.md)
 - [식당에서 격 연결하기 / Restaurant Case Combinations](examples/11-restaurant-case-combinations.md)
+- [식당 호칭과 취향 / Restaurant Address and Preferences](examples/12-restaurant-address-and-preferences.md)
+- [개의 성별 표현 / Dog Sex Terms](examples/13-dog-sex-terms.md)
+- [문화 장소와 전치격 / Culture Places and Prepositional Case](examples/14-culture-and-location.md)
 
 ## 기록 원칙
 
