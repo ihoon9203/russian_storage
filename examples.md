@@ -16,6 +16,9 @@
 - [식당 호칭과 취향 / Restaurant Address and Preferences](examples/12-restaurant-address-and-preferences.md)
 - [개의 성별 표현 / Dog Sex Terms](examples/13-dog-sex-terms.md)
 - [문화 장소와 전치격 / Culture Places and Prepositional Case](examples/14-culture-and-location.md)
+- [집 주변 위치 표현 / Locations Around a House](examples/15-locations-around-home.md)
+- [작업장과 산업 분야 / Workplaces and Industries](examples/16-workplaces-and-industries.md)
+- [방문·미소·분실 / Visiting, Smiling, and Losing](examples/17-visit-smile-and-lost-key.md)
 
 ## 기록 원칙
 

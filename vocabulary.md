@@ -12,6 +12,7 @@
 - [집](vocabulary/home.md)
 - [생활·존재](vocabulary/living-and-existence.md)
 - [직업·직장](vocabulary/work-and-professions.md)
+- [작업장·산업](vocabulary/workplaces-and-industries.md)
 - [학교·공부](vocabulary/school-and-study.md)
 - [개인정보](vocabulary/personal-information.md)
 - [동물](vocabulary/animals.md)
