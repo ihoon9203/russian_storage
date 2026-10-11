@@ -9,7 +9,11 @@
 ## 사람과 생활
 
 - [가족·관계](vocabulary/family-and-relationships.md)
+- [가족생활·성장](vocabulary/family-life-and-growth.md)
+- [확장 가족·결혼](vocabulary/extended-family-and-marriage.md)
 - [집](vocabulary/home.md)
+- [집 내부·편안함](vocabulary/home-interior-and-comfort.md)
+- [집 외부·계단 이동](vocabulary/home-exterior-and-stairs.md)
 - [생활·존재](vocabulary/living-and-existence.md)
 - [직업·직장](vocabulary/work-and-professions.md)
 - [작업장·산업](vocabulary/workplaces-and-industries.md)

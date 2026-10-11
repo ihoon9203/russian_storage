@@ -19,6 +19,9 @@
 - [집 주변 위치 표현 / Locations Around a House](examples/15-locations-around-home.md)
 - [작업장과 산업 분야 / Workplaces and Industries](examples/16-workplaces-and-industries.md)
 - [방문·미소·분실 / Visiting, Smiling, and Losing](examples/17-visit-smile-and-lost-key.md)
+- [가족생활과 결혼 / Family Life and Marriage](examples/18-family-life-and-marriage.md)
+- [집 내부와 편안함 / Home Interior and Comfort](examples/19-home-interior-and-comfort.md)
+- [집 외부와 계단 이동 / Home Exterior and Stairs](examples/20-home-exterior-and-stairs.md)
 
 ## 기록 원칙
 
