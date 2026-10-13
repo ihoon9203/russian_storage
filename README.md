@@ -3,6 +3,7 @@
 Codex와 ChatGPT에서 공부한 러시아어 내용을 중복 없이 정리한 저장소입니다.
 
 - [문법 정리 / Grammar](grammar.md)
+- [격과 격별 패턴 / Cases](cases.md)
 - [어휘 정리 / Vocabulary](vocabulary.md)
 - [예문 / Examples](examples.md)
 - [오답노트 / Mistake Notes](mistakes.md)
