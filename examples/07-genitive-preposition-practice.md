@@ -8,7 +8,11 @@
 |---|---|---|---|---|
 | `Я вышел из дома.` | 나는 집에서 나왔다. | `дом → дома` | [집](../vocabulary/home.md), [일과와 시간](../vocabulary/23-daily-routine-and-time.md) | [생격](../grammar/04-genitive.md) |
 | `Она приехала из России.` | 그녀는 러시아에서 왔다. | `Россия → России` | [나라·언어·국적](../vocabulary/countries-languages-nationalities.md), [교통·이동](../vocabulary/transport-and-movement.md) | [생격](../grammar/04-genitive.md) |
+| `Я из Сеула.` | 나는 서울 출신이다. | `Сеул → Сеула` | [도시·장소](../vocabulary/city-and-places.md), [위치·방향](../vocabulary/location-and-direction.md) | [생격: 출발점](../cases/genitive.md) |
+| `Я приехал из Сеула.` | 나는 서울에서 왔다. | `Сеул → Сеула` | [도시·장소](../vocabulary/city-and-places.md), [교통·이동](../vocabulary/transport-and-movement.md) | [생격: 출발점](../cases/genitive.md), [과거형](../grammar/10-past-tense.md) |
 | `Я достал телефон из сумки.` | 나는 가방에서 휴대전화를 꺼냈다. | `сумка → сумки` | [옷과 소지품](../vocabulary/24-clothing-and-belongings.md), [기술·미디어](../vocabulary/technology-and-media.md) | [생격](../grammar/04-genitive.md) |
+
+여성 화자는 `Я приехала из Сеула.`라고 한다.
 
 ## `для + 생격` — ~을 위해
 

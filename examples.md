@@ -22,6 +22,9 @@
 - [가족생활과 결혼 / Family Life and Marriage](examples/18-family-life-and-marriage.md)
 - [집 내부와 편안함 / Home Interior and Comfort](examples/19-home-interior-and-comfort.md)
 - [집 외부와 계단 이동 / Home Exterior and Stairs](examples/20-home-exterior-and-stairs.md)
+- [위치: `в + 전치격` / Location with `в`](examples/21-location-in-prepositional.md)
+- [목적지: `в + 대격` / Destination with `в`](examples/22-destination-in-accusative.md)
+- [출발점: `из + 생격` / Source with `из`](examples/23-source-from-genitive.md)
 
 ## 기록 원칙
 

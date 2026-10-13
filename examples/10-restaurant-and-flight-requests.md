@@ -11,5 +11,6 @@
 | `Я закажу борщ.` | 나는 보르시를 주문할 것이다. | [식당·주문](../vocabulary/restaurant-and-ordering.md), [음식](../vocabulary/food.md) | [완료상 미래](../grammar/11-aspect-and-future.md) |
 | `Можно пиво, пожалуйста?` | 맥주 부탁드려도 될까요? | [음료](../vocabulary/drinks.md), [필요·능력](../vocabulary/needs-and-ability.md), [인사·예절](../vocabulary/greetings-and-etiquette.md) | [회화 패턴](../grammar/18-conversation-patterns.md) |
 | `Можно мне пиво, пожалуйста?` | 저에게 맥주를 주시겠어요? | [음료](../vocabulary/drinks.md), [필요·능력](../vocabulary/needs-and-ability.md), [인사·예절](../vocabulary/greetings-and-etiquette.md) | [여격](../grammar/05-dative.md), [회화 패턴](../grammar/18-conversation-patterns.md) |
+| `Я хочу купить кофе.` | 나는 커피를 사고 싶다. | [쇼핑](../vocabulary/shopping.md), [음료](../vocabulary/drinks.md) | [`хотеть + 동사원형`](../grammar/12-verb-and-infinitive.md), [대격](../cases/accusative.md) |
 
 `Я буду + 음식`은 주문 상황에서 생략된 구어체로 쓸 수 있다. 일반적인 미래를 만들 때는 `Я буду есть ...`처럼 동사원형을 붙인다.
