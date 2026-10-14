@@ -58,6 +58,10 @@
 - [기술·미디어](vocabulary/technology-and-media.md)
 - [예술·문화](vocabulary/arts-and-culture.md)
 
+## 자연과 환경
+
+- [날씨·자연](vocabulary/weather-and-nature.md)
+
 ## 학습 메모
 
 아래 문서는 어휘 카테고리가 아니라 학습 보조 자료입니다.

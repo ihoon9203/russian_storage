@@ -25,6 +25,12 @@
 - [위치: `в + 전치격` / Location with `в`](examples/21-location-in-prepositional.md)
 - [목적지: `в + 대격` / Destination with `в`](examples/22-destination-in-accusative.md)
 - [출발점: `из + 생격` / Source with `из`](examples/23-source-from-genitive.md)
+- [장소: `на + 전치격` / Location with `на`](examples/24-location-on-prepositional.md)
+- [접근: `к + 여격` / Approach with `к`](examples/25-approach-with-dative.md)
+- [동행: `с + 조격` / Accompaniment with `с`](examples/26-accompaniment-with-instrumental.md)
+- [친구의 결혼식과 여격 / Dative at a Friend's Wedding](examples/27-wedding-dative-story.md)
+- [`град`, `город`, `-град` / Hail, City, and Place Names](examples/28-grad-and-gorod.md)
+- [남동생과 기차 여행 여격 / Dative on a Train Trip](examples/29-brother-train-trip-dative.md)
 
 ## 기록 원칙
 
