@@ -11,6 +11,7 @@
 | `Мы гуляем на улице.` | 우리는 거리에서 산책한다. | [도시·장소](../vocabulary/city-and-places.md), [달리기와 야외](../vocabulary/22-running-and-outdoors.md) | [전치격: `на улице`](../cases/prepositional.md), [현재형](../grammar/09-present-tense.md) |
 | `Мой друг на станции метро.` | 내 친구는 지하철역에 있다. | [가족·관계](../vocabulary/family-and-relationships.md), [도시·장소](../vocabulary/city-and-places.md) | [전치격: `на станции`](../cases/prepositional.md), [소유대명사](../grammar/22-possessives.md) |
 | `Я на уроке.` | 나는 수업 중이다. | [학교·공부](../vocabulary/school-and-study.md) | [전치격: `на уроке`](../cases/prepositional.md) |
+| `Мы бегаем на стадионе.` | 우리는 경기장에서 달린다. | [도시·장소](../vocabulary/city-and-places.md), [달리기와 야외](../vocabulary/22-running-and-outdoors.md) | [전치격: `на стадионе`](../cases/prepositional.md), [현재형](../grammar/09-present-tense.md) |
 | `Мы на тренировке.` | 우리는 훈련 중이다. | [달리기와 야외](../vocabulary/22-running-and-outdoors.md) | [전치격: `на тренировке`](../cases/prepositional.md) |
 | `Мой брат на стройке.` | 내 형제는 건설 현장에 있다. | [가족·관계](../vocabulary/family-and-relationships.md), [작업장·산업](../vocabulary/workplaces-and-industries.md) | [전치격: `на стройке`](../cases/prepositional.md), [소유대명사](../grammar/22-possessives.md) |
 | `Она на почте.` | 그녀는 우체국에 있다. | [도시·장소](../vocabulary/city-and-places.md) | [전치격: `на почте`](../cases/prepositional.md) |
