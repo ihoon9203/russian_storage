@@ -8,4 +8,5 @@
 | `Я посетил музей.` | 나는 박물관을 한 번 방문했다. | [예술·문화](../vocabulary/arts-and-culture.md) | [동사상과 미래](../grammar/11-aspect-and-future.md), [과거형](../grammar/10-past-tense.md) |
 | `Она улыбается.` | 그녀는 미소 짓고 있다. | [감정·사회관계](../vocabulary/feelings-and-social.md) | [현재형 동사](../grammar/09-present-tense.md) |
 | `Он улыбнулся мне.` | 그는 나에게 미소 지었다. | [감정·사회관계](../vocabulary/feelings-and-social.md) | [여격](../grammar/05-dative.md), [과거형](../grammar/10-past-tense.md) |
+| `Он стоит, улыбаясь.` | 그는 미소 지으며 서 있다. | [감정·사회관계](../vocabulary/feelings-and-social.md), [달리기와 야외](../vocabulary/22-running-and-outdoors.md) | [부동사: `улыбаясь`](../grammar/27-participles-and-verbal-adverbs.md), [현재형 동사](../grammar/09-present-tense.md) |
 | `Я потерял ключ от квартиры.` | 나는 아파트 열쇠를 잃어버렸다. | [집](../vocabulary/home.md) | [생격: `от квартиры`](../grammar/04-genitive.md), [과거형](../grammar/10-past-tense.md) |

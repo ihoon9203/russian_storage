@@ -14,6 +14,7 @@
 | `Мой брат идёт в музей.` | 내 형제는 박물관으로 간다. | [가족·관계](../vocabulary/family-and-relationships.md), [예술·문화](../vocabulary/arts-and-culture.md), [교통·이동](../vocabulary/transport-and-movement.md) | [대격: `в музей`](../cases/accusative.md), [소유대명사](../grammar/22-possessives.md) |
 | `Мы едем в город.` | 우리는 도시로 간다. | [교통·이동](../vocabulary/transport-and-movement.md), [도시·장소](../vocabulary/city-and-places.md) | [대격: `в город`](../cases/accusative.md), [현재형](../grammar/09-present-tense.md) |
 | `Я кладу книгу в сумку.` | 나는 책을 가방 안에 넣는다. | [식당 사람·행동](../vocabulary/restaurant-people-and-actions.md), [학교·공부](../vocabulary/school-and-study.md), [옷과 소지품](../vocabulary/24-clothing-and-belongings.md) | [대격: `книгу`, `в сумку`](../cases/accusative.md), [현재형](../grammar/09-present-tense.md) |
+| `Я ставлю молоко в холодильник.` | 나는 우유를 냉장고에 넣는다. | [음료](../vocabulary/drinks.md), [주방·식기](../vocabulary/kitchen-and-tableware.md), [식당 사람·행동](../vocabulary/restaurant-people-and-actions.md) | [대격: `молоко`, `в холодильник`](../cases/accusative.md), [현재형](../grammar/09-present-tense.md) |
 | `Моя сестра идёт в школу.` | 내 자매는 학교로 간다. | [가족·관계](../vocabulary/family-and-relationships.md), [학교·공부](../vocabulary/school-and-study.md), [교통·이동](../vocabulary/transport-and-movement.md) | [대격: `в школу`](../cases/accusative.md), [소유대명사](../grammar/22-possessives.md) |
 | `Я иду в коридор.` | 나는 복도로 간다. | [집](../vocabulary/home.md), [교통·이동](../vocabulary/transport-and-movement.md) | [대격: `в коридор`](../cases/accusative.md) |
 

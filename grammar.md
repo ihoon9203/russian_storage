@@ -21,3 +21,4 @@
 - [23. 기간과 수량 / Duration and Quantity](grammar/23-duration-and-quantity.md)
 - [24. 명령형과 제안 / Imperatives and Proposals](grammar/24-imperatives-and-proposals.md)
 - [25. 접두사와 동사상 / Prefixes and Aspect](grammar/25-prefixes-and-aspect.md)
+- [27. 능동 현재분사와 부동사 / Active Present Participles and Verbal Adverbs](grammar/27-participles-and-verbal-adverbs.md)

@@ -14,6 +14,7 @@
 | `Мой брат выходит из музея.` | 내 형제는 박물관에서 나온다. | [가족·관계](../vocabulary/family-and-relationships.md), [예술·문화](../vocabulary/arts-and-culture.md), [일과와 시간](../vocabulary/23-daily-routine-and-time.md) | [생격: `из музея`](../cases/genitive.md), [소유대명사](../grammar/22-possessives.md) |
 | `Мы едем из города.` | 우리는 도시에서 출발해 간다. | [교통·이동](../vocabulary/transport-and-movement.md), [도시·장소](../vocabulary/city-and-places.md) | [생격: `из города`](../cases/genitive.md), [현재형](../grammar/09-present-tense.md) |
 | `Я достаю книгу из сумки.` | 나는 가방에서 책을 꺼낸다. | [일과와 시간](../vocabulary/23-daily-routine-and-time.md), [학교·공부](../vocabulary/school-and-study.md), [옷과 소지품](../vocabulary/24-clothing-and-belongings.md) | [생격: `из сумки`](../cases/genitive.md), [현재형](../grammar/09-present-tense.md) |
+| `Я смотрю из окна.` | 나는 창문을 통해 밖을 바라본다. | [생각·지각](../vocabulary/thinking-and-perception.md), [집](../vocabulary/home.md) | [생격: `из окна`](../cases/genitive.md), [현재형](../grammar/09-present-tense.md) |
 | `Моя сестра выходит из школы.` | 내 자매는 학교에서 나온다. | [가족·관계](../vocabulary/family-and-relationships.md), [학교·공부](../vocabulary/school-and-study.md), [일과와 시간](../vocabulary/23-daily-routine-and-time.md) | [생격: `из школы`](../cases/genitive.md), [소유대명사](../grammar/22-possessives.md) |
 | `Я выхожу из коридора.` | 나는 복도에서 나온다. | [일과와 시간](../vocabulary/23-daily-routine-and-time.md), [집](../vocabulary/home.md) | [생격: `из коридора`](../cases/genitive.md) |
 
