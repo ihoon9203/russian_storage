@@ -32,6 +32,8 @@
 - [`град`, `город`, `-град` / Hail, City, and Place Names](examples/28-grad-and-gorod.md)
 - [남동생과 기차 여행 여격 / Dative on a Train Trip](examples/29-brother-train-trip-dative.md)
 
+- [Day 4 재시작 — 생격·대격·조격 30문장](examples/30-daily-practice-day-04-restart.md)
+
 ## 기록 원칙
 
 - 실제로 말할 법한 자연스러운 문장을 우선합니다.
