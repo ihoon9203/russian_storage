@@ -15,6 +15,6 @@
 | `Мы живём в городе.` | 우리는 도시에 산다. | [생활·존재](../vocabulary/living-and-existence.md), [도시·장소](../vocabulary/city-and-places.md) | [전치격: `в городе`](../cases/prepositional.md), [현재형](../grammar/09-present-tense.md) |
 | `Книга в сумке.` | 책은 가방 안에 있다. | [학교·공부](../vocabulary/school-and-study.md), [옷과 소지품](../vocabulary/24-clothing-and-belongings.md) | [전치격: `в сумке`](../cases/prepositional.md) |
 | `Моя сестра в школе.` | 내 자매는 학교에 있다. | [가족·관계](../vocabulary/family-and-relationships.md), [학교·공부](../vocabulary/school-and-study.md) | [전치격: `в школе`](../cases/prepositional.md), [소유대명사](../grammar/22-possessives.md) |
-| `Я жду друга в коридоре.` | 나는 복도에서 친구를 기다린다. | [가족·관계](../vocabulary/family-and-relationships.md), [집](../vocabulary/home.md), [집 외부·계단 이동](../vocabulary/home-exterior-and-stairs.md) | [전치격: `в коридоре`](../cases/prepositional.md), [대격: `друга`](../cases/accusative.md) |
+| `Я жду друга в коридоре.` | 나는 복도에서 친구를 기다린다. | [가족·관계](../vocabulary/family-and-relationships.md), [집](../vocabulary/home.md), [집 외부·건물 이동](../vocabulary/home-exterior-and-stairs.md) | [전치격: `в коридоре`](../cases/prepositional.md), [대격: `друга`](../cases/accusative.md) |
 
 같은 장소가 목적지가 되면 대격을 쓴다: `в комнате` → `в комнату`.
