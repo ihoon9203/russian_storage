@@ -34,6 +34,7 @@
 
 - [Day 4 재시작 — 생격·대격·조격 30문장](examples/30-daily-practice-day-04-restart.md)
 - [Day 6 — 집·건물·생활 어휘로 생격·대격·조격 연습](examples/31-daily-practice-day-06.md)
+- [Day 7 — `у`, `для`, `с` 비교 연습](examples/32-daily-practice-day-07.md)
 
 ## 기록 원칙
 
