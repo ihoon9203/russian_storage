@@ -36,6 +36,7 @@
 - [Day 6 — 집·건물·생활 어휘로 생격·대격·조격 연습](examples/31-daily-practice-day-06.md)
 - [Day 7 — `у`, `для`, `с` 비교 연습](examples/32-daily-practice-day-07.md)
 - [Day 8 — `о`, `по`, `без` 비교 연습](examples/33-daily-practice-day-08.md)
+- [Day 9 — `в`, `к`, `с`로 위치·접근·출발 비교](examples/34-daily-practice-day-09.md)
 
 ## 기록 원칙
 
