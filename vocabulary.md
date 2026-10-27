@@ -31,6 +31,7 @@
 - [식당 사람·행동](vocabulary/restaurant-people-and-actions.md)
 - [주방·식기](vocabulary/kitchen-and-tableware.md)
 - [쇼핑](vocabulary/shopping.md)
+- [시장 음식·결제](vocabulary/market-food-and-payment.md)
 
 ## 장소와 이동
 
@@ -58,6 +59,7 @@
 - [나라·언어·국적](vocabulary/countries-languages-nationalities.md)
 - [기술·미디어](vocabulary/technology-and-media.md)
 - [예술·문화](vocabulary/arts-and-culture.md)
+- [공동체 행사·신앙](vocabulary/community-events-and-faith.md)
 
 ## 자연과 환경
 
