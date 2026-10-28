@@ -40,6 +40,7 @@
 - [Day 10 — `из`, `в`, `с`로 출발·방향·동행 복습](examples/35-daily-practice-day-10.md)
 - [식당·시장 대화 / Restaurant and Bazaar Dialogues](examples/36-food-restaurant-and-bazaar-dialogues.md)
 - [교회 청소년 캠프 포스터 / Youth Bible Camp Program](examples/37-youth-bible-camp-program.md)
+- [여격 상태·시간·거리 표현 / Dative States, Time, and Distance](examples/38-dative-state-time-and-distance.md)
 
 ## 기록 원칙
 
