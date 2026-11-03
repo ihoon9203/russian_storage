@@ -8,7 +8,7 @@
 - [복수 명사 격 어미](cases/plural-endings.md)
 
 ## 격별 패턴
-- [생격 / Genitive](cases/genitive.md) — у, из, с, от, для, после, около, возле, вокруг, вдоль, напротив, внутри, в конце, нет 등
+- [생격 / Genitive](cases/genitive.md) — у, из, с, от, до, для, после, около, 관계 생격 등
 - [여격 / Dative](cases/dative.md) — к, по, 받는 사람, 감정·필요, помочь, позвонить 등
 - [대격 / Accusative](cases/accusative.md) — 직접목적어, в, на, за, под, через, 관용 동사 등
 - [조격 / Instrumental](cases/instrumental.md) — с, рядом с, перед, за, под, над, между, 수단·시간 등

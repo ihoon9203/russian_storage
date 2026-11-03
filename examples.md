@@ -41,6 +41,7 @@
 - [식당·시장 대화 / Restaurant and Bazaar Dialogues](examples/36-food-restaurant-and-bazaar-dialogues.md)
 - [교회 청소년 캠프 포스터 / Youth Bible Camp Program](examples/37-youth-bible-camp-program.md)
 - [여격 상태·시간·거리 표현 / Dative States, Time, and Distance](examples/38-dative-state-time-and-distance.md)
+- [기차역 대화 / Train Station Dialogue](examples/39-train-station-dialogue.md)
 
 ## 기록 원칙
 

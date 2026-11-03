@@ -38,6 +38,7 @@
 - [도시·장소](vocabulary/city-and-places.md)
 - [여행](vocabulary/travel.md)
 - [교통·이동](vocabulary/transport-and-movement.md)
+- [기차역·승차](vocabulary/train-station.md)
 - [위치·방향](vocabulary/location-and-direction.md)
 - [달리기와 야외](vocabulary/22-running-and-outdoors.md)
 
