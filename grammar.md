@@ -23,3 +23,4 @@
 - [25. 접두사와 동사상 / Prefixes and Aspect](grammar/25-prefixes-and-aspect.md)
 - [27. 능동 현재분사와 부동사 / Active Present Participles and Verbal Adverbs](grammar/27-participles-and-verbal-adverbs.md)
 - [28. `до + 생격`과 연속 생격 / Genitive Chains](grammar/28-genitive-chains.md)
+- [29. `всего`, `только`, `с трудом` 구분 / Quantity, Restriction, and Difficulty](grammar/29-vsego-tolko-and-difficulty.md)

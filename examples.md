@@ -43,6 +43,7 @@
 - [여격 상태·시간·거리 표현 / Dative States, Time, and Distance](examples/38-dative-state-time-and-distance.md)
 - [기차역 대화 / Train Station Dialogue](examples/39-train-station-dialogue.md)
 - [기차역 주격·대격·여격 연습 / Train Station Case Practice](examples/40-train-station-case-practice.md)
+- [도움 표현과 늦어진 출발 / Help and Delayed Departure](examples/41-help-and-late-departure.md)
 
 ## 기록 원칙
 
