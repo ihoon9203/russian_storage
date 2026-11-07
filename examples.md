@@ -44,6 +44,8 @@
 - [기차역 대화 / Train Station Dialogue](examples/39-train-station-dialogue.md)
 - [기차역 주격·대격·여격 연습 / Train Station Case Practice](examples/40-train-station-case-practice.md)
 - [도움 표현과 늦어진 출발 / Help and Delayed Departure](examples/41-help-and-late-departure.md)
+- [기차역 길 안내 / Train Station Directions](examples/42-train-station-directions.md)
+- [방문과 다음 이동 / Visit and Onward Travel](examples/43-visit-and-onward-travel.md)
 
 ## 기록 원칙
 

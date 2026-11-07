@@ -46,5 +46,7 @@ Codex와 ChatGPT에서 공부한 러시아어 내용을 중복 없이 정리한 
 - [기차역 대화 — `до + 생격`, 여격 의무·도움, 승차 표현](examples/39-train-station-dialogue.md)
 - [기차역 주격·대격·여격 연습과 `всего`](examples/40-train-station-case-practice.md)
 - [도움 표현과 `всего`·`только`·`с трудом` 구분](examples/41-help-and-late-departure.md)
+- [기차역 길 안내 — 방향 부사와 명령형](examples/42-train-station-directions.md)
+- [방문과 다음 이동 — 기간·완료상 미래·부분형](examples/43-visit-and-onward-travel.md)
 - [교회 청소년 캠프 포스터 표현](examples/37-youth-bible-camp-program.md)
 - [여격 상태·시간·거리 표현](examples/38-dative-state-time-and-distance.md)
