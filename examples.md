@@ -46,6 +46,7 @@
 - [도움 표현과 늦어진 출발 / Help and Delayed Departure](examples/41-help-and-late-departure.md)
 - [기차역 길 안내 / Train Station Directions](examples/42-train-station-directions.md)
 - [방문과 다음 이동 / Visit and Onward Travel](examples/43-visit-and-onward-travel.md)
+- [보기 동사와 `немного` / Seeing, Looking, and Amount](examples/44-seeing-looking-and-amount.md)
 
 ## 기록 원칙
 
