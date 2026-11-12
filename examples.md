@@ -48,6 +48,8 @@
 - [방문과 다음 이동 / Visit and Onward Travel](examples/43-visit-and-onward-travel.md)
 - [보기 동사와 `немного` / Seeing, Looking, and Amount](examples/44-seeing-looking-and-amount.md)
 - [예수 그리스도와 “우리와 함께” / Jesus Christ and “With Us”](examples/45-jesus-christ-and-with-us.md)
+- [`ц`, `щ`, `ш` 발음 / Pronouncing `ц`, `щ`, and `ш`](examples/46-ts-shch-sh-pronunciation.md)
+- [친구가 승차권을 찾도록 돕기 / Helping a Friend Find a Ticket](examples/47-helping-someone-find-a-ticket.md)
 
 ## 기록 원칙
 

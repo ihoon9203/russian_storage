@@ -10,8 +10,8 @@ Codex와 ChatGPT에서 공부한 러시아어 내용을 중복 없이 정리한 
 
 ## 정리 범위
 
-- 요청 범위: 2026-07-06 ~ 2026-11-11
-- 실제 확인된 학습 기록: 2026-07-20 ~ 2026-11-11
+- 요청 범위: 2026-07-06 ~ 2026-11-12
+- 실제 확인된 학습 기록: 2026-07-20 ~ 2026-11-12
 - 문서는 대화 순서가 아니라 필요한 항목만 작게 열 수 있도록 주제별로 분리
 
 ## 학습 원칙
@@ -24,7 +24,7 @@ Codex와 ChatGPT에서 공부한 러시아어 내용을 중복 없이 정리한 
 - 오답은 어휘와 문법으로 나눠 원인과 판단 기준을 함께 기록한다.
 - 한글 발음에는 강세용 특수기호를 넣지 않는다.
 
-최종 정리일: 2026-11-11
+최종 정리일: 2026-11-12
 
 ## 현재 학습 진도
 
@@ -50,5 +50,7 @@ Codex와 ChatGPT에서 공부한 러시아어 내용을 중복 없이 정리한 
 - [방문과 다음 이동 — 기간·완료상 미래·부분형](examples/43-visit-and-onward-travel.md)
 - [보기 동사와 `немного` — 지각·의도적 시선·부사 위치](examples/44-seeing-looking-and-amount.md)
 - [예수 그리스도와 “우리와 함께” — 러시아어·카자흐어 구분](examples/45-jesus-christ-and-with-us.md)
+- [`ц`, `щ`, `ш` 발음 비교](examples/46-ts-shch-sh-pronunciation.md)
+- [`помочь + 여격 + 원형` — 친구가 승차권을 찾도록 돕기](examples/47-helping-someone-find-a-ticket.md)
 - [교회 청소년 캠프 포스터 표현](examples/37-youth-bible-camp-program.md)
 - [여격 상태·시간·거리 표현](examples/38-dative-state-time-and-distance.md)
