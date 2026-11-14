@@ -50,6 +50,7 @@
 - [예수 그리스도와 “우리와 함께” / Jesus Christ and “With Us”](examples/45-jesus-christ-and-with-us.md)
 - [`ц`, `щ`, `ш` 발음 / Pronouncing `ц`, `щ`, and `ш`](examples/46-ts-shch-sh-pronunciation.md)
 - [친구가 승차권을 찾도록 돕기 / Helping a Friend Find a Ticket](examples/47-helping-someone-find-a-ticket.md)
+- [동사별 격 지배: `друга`와 `другу` / Verb Government with `друга` and `другу`](examples/48-verb-government-druga-drugu.md)
 
 ## 기록 원칙
 
