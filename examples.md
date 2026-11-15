@@ -51,6 +51,9 @@
 - [`ц`, `щ`, `ш` 발음 / Pronouncing `ц`, `щ`, and `ш`](examples/46-ts-shch-sh-pronunciation.md)
 - [친구가 승차권을 찾도록 돕기 / Helping a Friend Find a Ticket](examples/47-helping-someone-find-a-ticket.md)
 - [동사별 격 지배: `друга`와 `другу` / Verb Government with `друга` and `другу`](examples/48-verb-government-druga-drugu.md)
+- [게임과 짝 맞추기 / Games and Matching Pairs](examples/49-games-and-matching-pairs.md)
+- [제시간에 해내기 / Making It in Time](examples/50-making-it-in-time.md)
+- [진실을 말하기 / Telling the Truth](examples/51-telling-the-truth.md)
 
 ## 기록 원칙
 

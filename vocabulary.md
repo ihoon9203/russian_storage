@@ -61,6 +61,7 @@
 - [나라·언어·국적](vocabulary/countries-languages-nationalities.md)
 - [기술·미디어](vocabulary/technology-and-media.md)
 - [예술·문화](vocabulary/arts-and-culture.md)
+- [게임·놀이](vocabulary/games-and-play.md)
 - [공동체 행사·신앙](vocabulary/community-events-and-faith.md)
 
 ## 자연과 환경
