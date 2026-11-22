@@ -15,6 +15,7 @@
 - [집 내부·편안함](vocabulary/home-interior-and-comfort.md)
 - [집 외부·건물 이동](vocabulary/home-exterior-and-stairs.md)
 - [집 관리·생활 동작](vocabulary/home-maintenance-and-household-actions.md)
+- [포장·출발 준비](vocabulary/packing-and-preparation.md)
 - [생활·존재](vocabulary/living-and-existence.md)
 - [직업·직장](vocabulary/work-and-professions.md)
 - [작업장·산업](vocabulary/workplaces-and-industries.md)
@@ -55,6 +56,8 @@
 - [생각·지각](vocabulary/thinking-and-perception.md)
 - [시간](vocabulary/time.md)
 - [반응·대조 표현](vocabulary/conversation-reactions-and-contrast.md)
+- [속도·재촉 표현](vocabulary/speed-and-urgency.md)
+- [접근성·안내문](vocabulary/accessibility-and-signage.md)
 
 ## 지식과 문화
 

@@ -10,8 +10,8 @@ Codex와 ChatGPT에서 공부한 러시아어 내용을 중복 없이 정리한 
 
 ## 정리 범위
 
-- 요청 범위: 2026-07-06 ~ 2026-11-15
-- 실제 확인된 학습 기록: 2026-07-20 ~ 2026-11-15
+- 요청 범위: 2026-07-06 ~ 2026-11-22
+- 실제 확인된 학습 기록: 2026-07-20 ~ 2026-11-22
 - 문서는 대화 순서가 아니라 필요한 항목만 작게 열 수 있도록 주제별로 분리
 
 ## 학습 원칙
@@ -24,7 +24,7 @@ Codex와 ChatGPT에서 공부한 러시아어 내용을 중복 없이 정리한 
 - 오답은 어휘와 문법으로 나눠 원인과 판단 기준을 함께 기록한다.
 - 한글 발음에는 강세용 특수기호를 넣지 않는다.
 
-최종 정리일: 2026-11-15
+최종 정리일: 2026-11-22
 
 ## 현재 학습 진도
 
@@ -56,5 +56,13 @@ Codex와 ChatGPT에서 공부한 러시아어 내용을 중복 없이 정리한 
 - [게임·짝 맞추기 — `Найди пару!`, `играть в + 대격`](examples/49-games-and-matching-pairs.md)
 - [제시간에 해내기 — `успеть`, `еле`](examples/50-making-it-in-time.md)
 - [진실을 말하기 — `Я говорю правду.`](examples/51-telling-the-truth.md)
+- [수량 추가와 추천 메뉴 — `ещё три штуки`, `Что вы порекомендуете?`](examples/52-quantities-and-recommendations.md)
+- [축복과 공동체 안내 — `Да благословит тебя Бог.`](examples/53-blessings-and-community-notices.md)
+- [먹기와 삼사 종류 — `есть`, `самса с + 조격`](examples/54-eating-and-samsa.md)
+- [짐 싸기와 출발 준비](examples/55-packing-and-departure.md)
+- [기내 안전과 `под + 조격/대격`](examples/56-cabin-safety-and-pod.md)
+- [속도 표현과 정중한 과거 질문](examples/57-speed-and-polite-past.md)
+- [공공 안내와 쓰레기통](examples/58-public-signs-and-bins.md)
+- [`Кирилл` 이름](examples/59-name-kirill.md)
 - [교회 청소년 캠프 포스터 표현](examples/37-youth-bible-camp-program.md)
 - [여격 상태·시간·거리 표현](examples/38-dative-state-time-and-distance.md)

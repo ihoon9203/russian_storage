@@ -54,6 +54,14 @@
 - [게임과 짝 맞추기 / Games and Matching Pairs](examples/49-games-and-matching-pairs.md)
 - [제시간에 해내기 / Making It in Time](examples/50-making-it-in-time.md)
 - [진실을 말하기 / Telling the Truth](examples/51-telling-the-truth.md)
+- [수량 추가와 추천 메뉴 / Additional Quantities and Recommendations](examples/52-quantities-and-recommendations.md)
+- [축복과 공동체 안내 / Blessings and Community Notices](examples/53-blessings-and-community-notices.md)
+- [먹기와 삼사 종류 / Eating and Samsa Fillings](examples/54-eating-and-samsa.md)
+- [짐 싸기와 출발 준비 / Packing and Departure](examples/55-packing-and-departure.md)
+- [기내 안전과 `под` / Cabin Safety and `под`](examples/56-cabin-safety-and-pod.md)
+- [속도 표현과 정중한 과거 질문 / Speed and Polite Past Questions](examples/57-speed-and-polite-past.md)
+- [공공 안내와 쓰레기통 / Public Signs and Bins](examples/58-public-signs-and-bins.md)
+- [`Кирилл` 이름 / The Name `Кирилл`](examples/59-name-kirill.md)
 
 ## 기록 원칙
 
