@@ -6,3 +6,4 @@
 
 - [1. 격과 위치 표현](grammar/01-cases-and-location.md)
 - [2. 격변화 테스트 기록](grammar/02-case-drill-progress.md)
+- [3. 현재형과 존댓말 일치](grammar/03-present-tense-and-register.md)

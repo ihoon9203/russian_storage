@@ -62,6 +62,7 @@
 - [속도 표현과 정중한 과거 질문 / Speed and Polite Past Questions](examples/57-speed-and-polite-past.md)
 - [공공 안내와 쓰레기통 / Public Signs and Bins](examples/58-public-signs-and-bins.md)
 - [`Кирилл` 이름 / The Name `Кирилл`](examples/59-name-kirill.md)
+- [`Ты знаешь?`와 `Вы знаете?` / Knowing and Register](examples/60-knowing-and-register.md)
 
 ## 기록 원칙
 
