@@ -55,6 +55,7 @@
 - [도움·지원](vocabulary/help-and-support.md)
 - [생각·지각](vocabulary/thinking-and-perception.md)
 - [시간](vocabulary/time.md)
+- [일과와 시간](vocabulary/23-daily-routine-and-time.md)
 - [반응·대조 표현](vocabulary/conversation-reactions-and-contrast.md)
 - [속도·재촉 표현](vocabulary/speed-and-urgency.md)
 - [접근성·안내문](vocabulary/accessibility-and-signage.md)

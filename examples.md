@@ -63,6 +63,8 @@
 - [공공 안내와 쓰레기통 / Public Signs and Bins](examples/58-public-signs-and-bins.md)
 - [`Кирилл` 이름 / The Name `Кирилл`](examples/59-name-kirill.md)
 - [`Ты знаешь?`와 `Вы знаете?` / Knowing and Register](examples/60-knowing-and-register.md)
+- [`по-`가 붙은 동사와 부사 / `по-` in Verbs and Adverbs](examples/61-po-prefix-and-adverbs.md)
+- [열쇠 `ключ`로 익히는 여섯 격 / Six Cases with `ключ`](examples/62-key-case-practice.md)
 
 ## 기록 원칙
 
